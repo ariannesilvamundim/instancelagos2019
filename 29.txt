@@ -1,0 +1,16 @@
+Numero de Frequencias (J)
+15
+Todas as Frequencias (Fj)
+1.00	0.50	0.33	0.25	0.20	0.17	0.14	0.12	0.11	0.10	0.09	0.08	0.08	0.07	0.07	
+Capacidade de cada veiculo vijando na frequencia Fj (Rj)
+0.71	0.72	0.96	0.78	0.66	0.82	0.79	0.70	0.76	0.64	0.65	0.29	0.42	0.46	0.64	
+Quantidade de produtos (I)
+10
+Taxa	que	o	produto	i	eh	disponibilizado	do	fornecedor	para	o	cliente	(Qi)
+8.70	7.15	6.67	6.77	5.74	7.23	7.83	7.33	7.79	6.59	
+Volume	do	produto	i	(Vi)
+0.61	0.43	0.36	0.72	0.91	0.34	0.43	0.63	0.31	0.22	
+Custo	de	inventario	do	produto	i	(hi)
+0.29	0.12	0.05	0.99	0.88	0.65	0.64	0.17	0.07	0.10	
+Custo	de	transporte	de	cada	veiculo	(Cj)
+315	315	301	282	283	308	304	311	282	282	277	313	303	295	299	
